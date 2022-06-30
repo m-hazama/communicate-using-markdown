@@ -24,4 +24,3 @@ abc
 - [ ] Outline my portfolio
 - [x] Introduce myself to the world
 - [ ] あああああ
-- [ 1]　aaaaa
